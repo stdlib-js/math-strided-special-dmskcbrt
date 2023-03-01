@@ -320,9 +320,9 @@ int main() {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/math/strided/special/dcbrt`][@stdlib/math/strided/special/dcbrt]</span><span class="delimiter">: </span><span class="description">compute the cube root of each element in a double-precision floating-point strided array.</span>
--   <span class="package-name">[`@stdlib/math/strided/special/dmsksqrt`][@stdlib/math/strided/special/dmsksqrt]</span><span class="delimiter">: </span><span class="description">compute the principal square root for each element in a double-precision floating-point strided array according to a strided mask array.</span>
--   <span class="package-name">[`@stdlib/math/strided/special/smskcbrt`][@stdlib/math/strided/special/smskcbrt]</span><span class="delimiter">: </span><span class="description">compute the cube root for each element in a single-precision floating-point strided array according to a strided mask array.</span>
+-   <span class="package-name">[`@stdlib/math-strided/special/dcbrt`][@stdlib/math/strided/special/dcbrt]</span><span class="delimiter">: </span><span class="description">compute the cube root of each element in a double-precision floating-point strided array.</span>
+-   <span class="package-name">[`@stdlib/math-strided/special/dmsksqrt`][@stdlib/math/strided/special/dmsksqrt]</span><span class="delimiter">: </span><span class="description">compute the principal square root for each element in a double-precision floating-point strided array according to a strided mask array.</span>
+-   <span class="package-name">[`@stdlib/math-strided/special/smskcbrt`][@stdlib/math/strided/special/smskcbrt]</span><span class="delimiter">: </span><span class="description">compute the cube root for each element in a single-precision floating-point strided array according to a strided mask array.</span>
 
 </section>
 
