@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dmskcbrt from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-dmskcbrt@esm/index.mjs';
+import dmskcbrt from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-dmskcbrt@v0.1.1-esm/index.mjs';
 ```
 
 #### dmskcbrt( N, x, sx, m, sm, y, sy )
@@ -172,7 +172,7 @@ dmskcbrt.ndarray( 3, x, 2, 1, m, 2, 1, y, -1, y.length-1 );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@esm/index.mjs';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@esm/index.mjs';
 import Uint8Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-uint8@esm/index.mjs';
-import dmskcbrt from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-dmskcbrt@esm/index.mjs';
+import dmskcbrt from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-dmskcbrt@v0.1.1-esm/index.mjs';
 
 var x = new Float64Array( 10 );
 var m = new Uint8Array( 10 );
